@@ -1,2 +1,2 @@
 # pinterest-clone
-Pinterest Clone
+Pinterest Clone 
