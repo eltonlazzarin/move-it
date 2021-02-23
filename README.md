@@ -1,2 +1,2 @@
-# pinterest-clone
-Pinterest Clone 
+# move-it
+Move it 
