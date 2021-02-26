@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-
+Move.it is a web application built with Next.js
 </h3>
 
 <p align="center">
@@ -32,7 +32,7 @@
   <img src="https://github.com/eltonlazzarin/moveit-next/blob/main/screenshots/moveit-app.gif">
 </p>
 
-<p></p>
+<p>The application called Move.it tem is a web application using the resources of Next.js, React Hooks and for the management of states, ContextAPI was used and aims to suggest for people and, mainly for those people who work for a long time sitting, the option of moving during this period so as not to harm their quality of life and, with each challenge completed, the user will earn points, thus moving to new levels.</p>
 
 ## 🚀 Technologies
 
