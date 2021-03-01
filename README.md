@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center"> 
 	<img alt="Logo" src="https://github.com/eltonlazzarin/moveit-next/blob/main/public/logo-full.svg" />
 </h1>
 
