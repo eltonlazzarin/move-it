@@ -88,6 +88,8 @@ $ git commit -m 'feat: Your new feature'
 $ git push origin your-feature
 ```
 
+[Project Layout](https://www.figma.com/file/YSKc55Ag66ECSUOBBWTeI6/Move.it-2.0-(Copy)?node-id=160%3A2761)
+
 After your pull request is merged, you can delete your branch
 
 ## 📝 License
